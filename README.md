@@ -1,3 +1,13 @@
+Piedra Papel y Tijera
+
+Proyecto realizado con HTML, CSS y JS.
+
+Realizado con el fin de practicar estructura con HTML, estilización con CSS y programación con JavaScript.
+
+Idea y recursos de Frontend Mentor. Programado por Octavio Caba.
+
+**********************************************************************************************************
+
 # Frontend Mentor - Rock, Paper, Scissors
 
 ![Design preview for the Rock, Paper, Scissors coding challenge](./design/desktop-preview.jpg)
